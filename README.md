@@ -1,4 +1,4 @@
-# 生物序列压缩算法
+# Biological-sequence-compression-algorithms 
 ## SeqCompress
 1. Preprocess.py and SeqCompress_main.py were scripts for the first algorithm.
 2. Using preprocess.py to process the origin sequence.
