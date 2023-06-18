@@ -6,5 +6,5 @@
 ## Segment_repetition_compress
 This script was based on the SeqCompress.py.
 ## SeedBasedCompressing
-1. In this script,we supply the functions of seed generating,sequence extending and sequence compressing.
+1. In the script named SeedBasedCompressing.py,we supply the functions of seed generating,sequence extending and sequence compressing.
 2. Users can change the origin sequence,length of the seed based. on their own requirements.
